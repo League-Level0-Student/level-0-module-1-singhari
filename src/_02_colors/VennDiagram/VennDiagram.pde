@@ -1,26 +1,12 @@
 size(600,600);
+fill(255, 0, 0, 100);
 ellipse (200, 200, 200, 200);
+fill(0, 255, 0, 100);
 ellipse (300, 200, 200, 200);
+fill(0, 0, 255, 100);
 ellipse (250, 300, 200, 200);
-
-//you forgot to sign out
-//you forgot to sign out
-//you forgot to sign out
-//you forgot to sign out
-//you forgot to sign out
-//you forgot to sign out
-//you forgot to sign out
-//you forgot to sign out
-//you forgot to sign out
-//you forgot to sign out
-//you forgot to sign out
-//you forgot to sign out
-//you forgot to sign out
-//you forgot to sign out
-//you forgot to sign out
-//you forgot to sign out
-//you forgot to sign out
-//you forgot to sign out
-//you forgot to sign out
-
-
+fill(0, 0, 0, 100);
+textSize(20);
+text("Likes to read", 110, 200);
+text("Imaginative", 300, 200);
+text("Tired", 210, 340);
