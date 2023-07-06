@@ -39,6 +39,7 @@ public class RobotInSpace extends KeyboardAdapter {
 			rob.move(5);
 			
 		}
+		//r
 		// 4. If the down arrow is pressed, move the Robot down.
 		if(keyPressed == 40) {
 			rob.setAngle(180);

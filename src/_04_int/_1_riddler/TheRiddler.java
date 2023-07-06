@@ -35,6 +35,7 @@ if(wer.equals("a bottle")) {
 	score++;
 }
 		
+//r
 else {
 	String er = "wrong";
 	JOptionPane.showMessageDialog(null,er);
